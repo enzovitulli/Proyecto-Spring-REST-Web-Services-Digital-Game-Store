@@ -1,0 +1,6 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "workbench.colorTheme": "GitHub Dark Default",
+    "java.project.explorer.showNonJavaResources": true,
+    "java.compile.nullAnalysis.mode": "automatic"
+}

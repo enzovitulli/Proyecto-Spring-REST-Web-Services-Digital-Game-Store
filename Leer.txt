@@ -1,0 +1,4 @@
+Se proporciona el script .sql para generar la base de datos, pero no es necesario
+ya que se generará automaticamente mediante Spring Docker Compose y Spring JPA.
+
+Un script para insertar rows en la tabla game y probar la aplicación también está proporcionado.

@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DigitalGameStoreApplication<digitalgamestore>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "dws.DigitalGameStoreApplication",
+            "projectName": "digitalgamestore",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
